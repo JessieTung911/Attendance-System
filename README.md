@@ -18,14 +18,15 @@ Installation
 
 1.Clone the repo
           git clone   https://github.com/JessieTung911/Attendance-System
+          
 2. Install Attendance-System
 
 3. Find file Attendance.xcodeproj
 
 4. Open file Attendance.xcodeproj with your version Xcode
 
-Project work allocation
+Project work allocation:
         JieYing Dong is resposible for Teacher/Tutor/Admin part, Zijian Liang is resposible for Student part
 
-Contact 
+Contact: 
         Jieying dong 13392737@student.uts.edu.au, Zijian Liang 13485141@student.uts.edu.au
