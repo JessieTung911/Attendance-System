@@ -26,8 +26,10 @@ Installation
 
 Project work allocation
         JieYing Dong is resposible for Teacher/Tutor/Admin part
+        
         Zijian Liang is resposible for Student part
 
 Contact 
         **Jieying dong 13392737@student.uts.edu.au
+        
         Zijian Liang 13485141@student.uts.edu.au
