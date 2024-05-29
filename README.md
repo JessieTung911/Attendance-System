@@ -25,11 +25,7 @@ Installation
 4. Open file Attendance.xcodeproj with your version Xcode
 
 Project work allocation
-        JieYing Dong is resposible for Teacher/Tutor/Admin part
-        
-        Zijian Liang is resposible for Student part
+        JieYing Dong is resposible for Teacher/Tutor/Admin part, Zijian Liang is resposible for Student part
 
 Contact 
-        **Jieying dong 13392737@student.uts.edu.au
-        
-        Zijian Liang 13485141@student.uts.edu.au
+        Jieying dong 13392737@student.uts.edu.au, Zijian Liang 13485141@student.uts.edu.au
